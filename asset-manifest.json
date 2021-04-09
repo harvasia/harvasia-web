@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/harvasia-web/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/harvasia-web/static/js/main.24f52683.chunk.js",
-    "main.js.map": "/harvasia-web/static/js/main.24f52683.chunk.js.map",
+    "main.js": "/harvasia-web/static/js/main.46fdbbcf.chunk.js",
+    "main.js.map": "/harvasia-web/static/js/main.46fdbbcf.chunk.js.map",
     "runtime-main.js": "/harvasia-web/static/js/runtime-main.ef97a069.js",
     "runtime-main.js.map": "/harvasia-web/static/js/runtime-main.ef97a069.js.map",
     "static/js/2.ddc750bf.chunk.js": "/harvasia-web/static/js/2.ddc750bf.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ef97a069.js",
     "static/js/2.ddc750bf.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.24f52683.chunk.js"
+    "static/js/main.46fdbbcf.chunk.js"
   ]
 }
