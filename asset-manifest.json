@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/harvasia-web/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/harvasia-web/static/js/main.24f52683.chunk.js",
+    "main.js.map": "/harvasia-web/static/js/main.24f52683.chunk.js.map",
+    "runtime-main.js": "/harvasia-web/static/js/runtime-main.ef97a069.js",
+    "runtime-main.js.map": "/harvasia-web/static/js/runtime-main.ef97a069.js.map",
+    "static/js/2.ddc750bf.chunk.js": "/harvasia-web/static/js/2.ddc750bf.chunk.js",
+    "static/js/2.ddc750bf.chunk.js.map": "/harvasia-web/static/js/2.ddc750bf.chunk.js.map",
+    "static/js/3.61ec36e1.chunk.js": "/harvasia-web/static/js/3.61ec36e1.chunk.js",
+    "static/js/3.61ec36e1.chunk.js.map": "/harvasia-web/static/js/3.61ec36e1.chunk.js.map",
+    "index.html": "/harvasia-web/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/harvasia-web/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.ddc750bf.chunk.js.LICENSE.txt": "/harvasia-web/static/js/2.ddc750bf.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/harvasia-web/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef97a069.js",
+    "static/js/2.ddc750bf.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.24f52683.chunk.js"
+  ]
+}
